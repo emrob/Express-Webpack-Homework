@@ -1,3 +1,5 @@
+var path = require("path");
+
 config = {
   entry: __dirname + "/src/app.js",
   output: {
